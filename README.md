@@ -6,7 +6,7 @@ Este repositório contém uma solução de **Robotic Process Automation (RPA)** 
 
 ## 🎯 **Objetivo do Projeto**
 
-Automatizar a coleta diária de cotações de moedas diretamente de portais financeiros (Google Finanças), tratar inconsistências de formatação dos valores extraídos e alertar as áreas de negócio (Tesouraria/Controladoria) caso os valores ultrapassem os limites operacionais estipulados.
+Automatizar a coleta diária de cotações de moedas diretamente de portais financeiros (Google Finanças), tratar inconsistências de formatação dos valores extraídos e alertar as áreas de negócio caso os valores ultrapassem os limites operacionais estipulados.
 
 ---
 
@@ -56,14 +56,6 @@ UiPath_WebScraping_Cotacoes/
 
 ---
 
-## ⏱️ **Desempenho & Resultados**
-
-- **Tempo médio de execução:** ~26 segundos para o ciclo completo (extração, limpeza, análise e gravação).
-- **Confiabilidade:** 100% de taxa de acerto na conversão numérica com Regex, independente da formatação web.
-- **Autonomia:** Eliminação total da checagem manual de cotações.
-
----
-
 ## 🔧 **Como Executar o Projeto**
 
 1. Clone este repositório para o seu ambiente local.
@@ -73,4 +65,4 @@ UiPath_WebScraping_Cotacoes/
 
 ---
 
-📌 *Projeto desenvolvido para fins de portfólio profissional e consolidação de conceitos avançados de Web Scraping e RPA no UiPath.*
+📌 *Projeto desenvolvido para fins de consolidação de conceitos de Web Scraping e RPA no UiPath.*
