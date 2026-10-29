@@ -1,0 +1,11 @@
+.local/
+.tmphost/
+.objects/
+.settings/
+.screenshots/
+packages/
+*.log
+*.tmp
+~$*.xlsx
+.DS_Store
+Thumbs.db

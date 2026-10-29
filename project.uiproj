@@ -1,0 +1,6 @@
+{
+  "Name": "UiPath_WebScraping_Cotacoes",
+  "ProjectType": "Process",
+  "Description": "Web Scraping & Monitoramento de Mercado / Cotações. Monitorar a cotação diária de moedas (Dólar, Euro, Bitcoin) em um portal financeiro ou site de câmbio.",
+  "MainFile": "Main.xaml"
+}
